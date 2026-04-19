@@ -1,5 +1,7 @@
 # Cursor Project Memory
 
+[中文文档](README_CN.md)
+
 A file-based memory layer for [Cursor](https://cursor.com/) AI agents. It automatically records problems, solutions, optimizations, and decisions into daily Markdown files — so every new conversation picks up where the last one left off.
 
 ## Why
